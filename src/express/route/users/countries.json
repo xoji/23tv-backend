@@ -1,0 +1,2144 @@
+[
+	{
+		"name": "Afghanistan",
+		"dialCode": 93,
+		"isoCode": "AF",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/af.svg",
+		"local": false,
+		"separates": [2, 5, 8],
+		"length": 11
+	},
+	{
+		"name": "Aland Islands",
+		"dialCode": 358,
+		"isoCode": "AX",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ax.svg",
+		"local": false,
+		"separates": [3, 5, 8, 10],
+		"length": 10
+	},
+	{
+		"name": "Albania",
+		"dialCode": 355,
+		"isoCode": "AL",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/al.svg",
+		"local": false,
+		"separates": [3, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Algeria",
+		"dialCode": 213,
+		"isoCode": "DZ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/dz.svg",
+		"local": false,
+		"separates": [3, 6, 8, 10],
+		"length": 11
+	},
+	{
+		"name": "American Samoa",
+		"dialCode": 1684,
+		"isoCode": "AS",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/as.svg",
+		"local": false,
+		"separates": [1, 4, 6],
+		"length": 11
+	},
+	{
+		"name": "Andorra",
+		"dialCode": 376,
+		"isoCode": "AD",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ad.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 9
+	},
+	{
+		"name": "Angola",
+		"dialCode": 244,
+		"isoCode": "AO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ao.svg",
+		"local": false,
+		"separates": [3, 6, 9],
+		"length": 12
+	},
+	{
+		"name": "Anguilla",
+		"dialCode": 1264,
+		"isoCode": "AI",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ai.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Antigua and Barbuda",
+		"dialCode": 1268,
+		"isoCode": "AG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ag.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Argentina",
+		"dialCode": 54,
+		"isoCode": "AR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ar.svg",
+		"local": false,
+		"separates": [2, 5, 8],
+		"length": 12
+	},
+	{
+		"name": "Armenia",
+		"dialCode": 374,
+		"isoCode": "AM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/am.svg",
+		"local": false,
+		"separates": [3, 6, 9],
+		"length": 12
+	},
+	{
+		"name": "Aruba",
+		"dialCode": 297,
+		"isoCode": "AW",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/aw.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Ascension Island",
+		"dialCode": 247,
+		"isoCode": "AC",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ac.svg",
+		"local": false,
+		"separates": [3],
+		"length": 7
+	},
+	{
+		"name": "Australia",
+		"dialCode": 61,
+		"isoCode": "AU",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/au.svg",
+		"local": false,
+		"separates": [2, 3, 7],
+		"length": 11
+	},
+	{
+		"name": "Austria",
+		"dialCode": 43,
+		"isoCode": "AT",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/at.svg",
+		"local": false,
+		"separates": [2, 5, 8],
+		"length": 13
+	},
+	{
+		"name": "Azerbaijan",
+		"dialCode": 994,
+		"isoCode": "AZ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/az.svg",
+		"local": false,
+		"separates": [3, 5, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Bahamas",
+		"dialCode": 1242,
+		"isoCode": "BS",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bs.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Bahrain",
+		"dialCode": 973,
+		"isoCode": "BH",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bh.svg",
+		"local": false,
+		"separates": [3, 4, 5],
+		"length": 11
+	},
+	{
+		"name": "Bangladesh",
+		"dialCode": 880,
+		"isoCode": "BD",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bd.svg",
+		"local": false,
+		"separates": [3, 4, 11],
+		"length": 12
+	},
+	{
+		"name": "Barbados",
+		"dialCode": 1246,
+		"isoCode": "BB",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bb.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Belarus",
+		"dialCode": 375,
+		"isoCode": "BY",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/by.svg",
+		"local": false,
+		"separates": [3, 5, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Belgium",
+		"dialCode": 32,
+		"isoCode": "BE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/be.svg",
+		"local": false,
+		"separates": [2, 3, 6, 8],
+		"length": 10
+	},
+	{
+		"name": "Belize",
+		"dialCode": 501,
+		"isoCode": "BZ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bz.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Benin",
+		"dialCode": 229,
+		"isoCode": "BJ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bj.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Bermuda",
+		"dialCode": 1441,
+		"isoCode": "BM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bm.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Bhutan",
+		"dialCode": 975,
+		"isoCode": "BT",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bt.svg",
+		"local": false,
+		"separates": [3, 4, 6],
+		"length": 10
+	},
+	{
+		"name": "Bolivia",
+		"dialCode": 591,
+		"isoCode": "BO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bo.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 11
+	},
+	{
+		"name": "Bosnia and Herzegovina",
+		"dialCode": 387,
+		"isoCode": "BA",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ba.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 11
+	},
+	{
+		"name": "Botswana",
+		"dialCode": 267,
+		"isoCode": "BW",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bw.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Brazil",
+		"dialCode": 55,
+		"isoCode": "BR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/br.svg",
+		"local": false,
+		"separates": [2, 4, 8],
+		"length": 12
+	},
+	{
+		"name": "British Indian Ocean Territory",
+		"dialCode": 246,
+		"isoCode": "IO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/io.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Brunei Darussalam",
+		"dialCode": 673,
+		"isoCode": "BN",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bn.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Bulgaria",
+		"dialCode": 359,
+		"isoCode": "BG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bg.svg",
+		"local": false,
+		"separates": [3, 4, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Burkina Faso",
+		"dialCode": 226,
+		"isoCode": "BF",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bf.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Burundi",
+		"dialCode": 257,
+		"isoCode": "BI",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bi.svg",
+		"local": false,
+		"separates": [3, 4, 5, 7],
+		"length": 11
+	},
+	{
+		"name": "Cambodia",
+		"dialCode": 855,
+		"isoCode": "KH",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/kh.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 11
+	},
+	{
+		"name": "Cameroon",
+		"dialCode": 237,
+		"isoCode": "CM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cm.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 12
+	},
+	{
+		"name": "Cape Verde",
+		"dialCode": 238,
+		"isoCode": "CV",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cv.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Cayman Islands",
+		"dialCode": 1345,
+		"isoCode": "KY",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ky.svg",
+		"local": false,
+		"separates": [1, 4, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Central African Republic",
+		"dialCode": 236,
+		"isoCode": "CF",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cf.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Chad",
+		"dialCode": 235,
+		"isoCode": "TD",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/td.svg",
+		"local": false,
+		"separates": [3, 5, 7],
+		"length": 11
+	},
+	{
+		"name": "Chile",
+		"dialCode": 56,
+		"isoCode": "CL",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cl.svg",
+		"local": false,
+		"separates": [2, 3, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "China",
+		"dialCode": 86,
+		"isoCode": "CN",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cn.svg",
+		"local": false,
+		"separates": [2, 4, 8],
+		"length": 12
+	},
+	{
+		"name": "Christmas Island",
+		"dialCode": 61,
+		"isoCode": "CX",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cx.svg",
+		"local": false,
+		"separates": [2, 3, 7],
+		"length": 11
+	},
+	{
+		"name": "Cocos (Keeling) Islands",
+		"dialCode": 61,
+		"isoCode": "CC",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cc.svg",
+		"local": false,
+		"separates": [2, 4, 8],
+		"length": 11
+	},
+	{
+		"name": "Colombia",
+		"dialCode": 57,
+		"isoCode": "CO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/co.svg",
+		"local": false,
+		"separates": [2, 3, 6],
+		"length": 10
+	},
+	{
+		"name": "Comoros",
+		"dialCode": 269,
+		"isoCode": "KM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/km.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Congo",
+		"dialCode": 242,
+		"isoCode": "CG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cg.svg",
+		"local": false,
+		"separates": [3, 5, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Cook Islands",
+		"dialCode": 682,
+		"isoCode": "CK",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ck.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 8
+	},
+	{
+		"name": "Costa Rica",
+		"dialCode": 506,
+		"isoCode": "CR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cr.svg",
+		"local": false,
+		"separates": [3, 7],
+		"length": 11
+	},
+	{
+		"name": "Croatia",
+		"dialCode": 385,
+		"isoCode": "HR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/hr.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 11
+	},
+	{
+		"name": "Cuba",
+		"dialCode": 53,
+		"isoCode": "CU",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cu.svg",
+		"local": false,
+		"separates": [2, 3],
+		"length": 10
+	},
+	{
+		"name": "Cyprus",
+		"dialCode": 357,
+		"isoCode": "CY",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cy.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 11
+	},
+	{
+		"name": "Czech Republic",
+		"dialCode": 420,
+		"isoCode": "CZ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cz.svg",
+		"local": false,
+		"separates": [3, 4, 7],
+		"length": 12
+	},
+	{
+		"name": "Democratic Republic of the Congo",
+		"dialCode": 243,
+		"isoCode": "CD",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/cd.svg",
+		"local": false,
+		"separates": [3, 6, 9],
+		"length": 12
+	},
+	{
+		"name": "Denmark",
+		"dialCode": 45,
+		"isoCode": "DK",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/dk.svg",
+		"local": false,
+		"separates": [2, 4, 6],
+		"length": 10
+	},
+	{
+		"name": "Djibouti",
+		"dialCode": 253,
+		"isoCode": "DJ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/dj.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 11
+	},
+	{
+		"name": "Dominica",
+		"dialCode": 1767,
+		"isoCode": "DM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/dm.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Dominican Republic",
+		"dialCode": 1849,
+		"isoCode": "DO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/do.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Ecuador",
+		"dialCode": 593,
+		"isoCode": "EC",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ec.svg",
+		"local": false,
+		"separates": [3, 4, 8],
+		"length": 11
+	},
+	{
+		"name": "Egypt",
+		"dialCode": 20,
+		"isoCode": "EG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/eg.svg",
+		"local": false,
+		"separates": [2, 3, 7],
+		"length": 11
+	},
+	{
+		"name": "El Salvador",
+		"dialCode": 503,
+		"isoCode": "SV",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sv.svg",
+		"local": false,
+		"separates": [3],
+		"length": 11
+	},
+	{
+		"name": "Equatorial Guinea",
+		"dialCode": 240,
+		"isoCode": "GQ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gq.svg",
+		"local": false,
+		"separates": [3, 6, 9],
+		"length": 12
+	},
+	{
+		"name": "Eritrea",
+		"dialCode": 291,
+		"isoCode": "ER",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/er.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 10
+	},
+	{
+		"name": "Estonia",
+		"dialCode": 372,
+		"isoCode": "EE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ee.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Ethiopia",
+		"dialCode": 251,
+		"isoCode": "ET",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/et.svg",
+		"local": false,
+		"separates": [3, 6, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Falkland Islands (Malvinas)",
+		"dialCode": 500,
+		"isoCode": "FK",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/fk.svg",
+		"local": false,
+		"separates": [3],
+		"length": 8
+	},
+	{
+		"name": "Faroe Islands",
+		"dialCode": 298,
+		"isoCode": "FO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/fo.svg",
+		"local": false,
+		"separates": [3],
+		"length": 9
+	},
+	{
+		"name": "Fiji",
+		"dialCode": 679,
+		"isoCode": "FJ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/fj.svg",
+		"local": false,
+		"separates": [3],
+		"length": 10
+	},
+	{
+		"name": "Finland",
+		"dialCode": 358,
+		"isoCode": "FI",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/fi.svg",
+		"local": false,
+		"separates": [3, 4, 8],
+		"length": 12
+	},
+	{
+		"name": "France",
+		"dialCode": 33,
+		"isoCode": "FR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/fr.svg",
+		"local": false,
+		"separates": [2, 3, 5, 7, 9],
+		"length": 12
+	},
+	{
+		"name": "French Guiana",
+		"dialCode": 594,
+		"isoCode": "GF",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gf.svg",
+		"local": false,
+		"separates": [3, 6, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "French Polynesia",
+		"dialCode": 689,
+		"isoCode": "PF",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/pf.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Gabon",
+		"dialCode": 241,
+		"isoCode": "GA",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ga.svg",
+		"local": false,
+		"separates": [3, 4, 6],
+		"length": 10
+	},
+	{
+		"name": "Gambia",
+		"dialCode": 220,
+		"isoCode": "GM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gm.svg",
+		"local": false,
+		"separates": [3, 11],
+		"length": 11
+	},
+	{
+		"name": "Georgia",
+		"dialCode": 995,
+		"isoCode": "GE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ge.svg",
+		"local": false,
+		"separates": [3, 5, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Germany",
+		"dialCode": 49,
+		"isoCode": "DE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/de.svg",
+		"local": false,
+		"separates": [2, 4],
+		"length": 13
+	},
+	{
+		"name": "Ghana",
+		"dialCode": 233,
+		"isoCode": "GH",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gh.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 12
+	},
+	{
+		"name": "Gibraltar",
+		"dialCode": 350,
+		"isoCode": "GI",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gi.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 11
+	},
+	{
+		"name": "Greece",
+		"dialCode": 30,
+		"isoCode": "GR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gr.svg",
+		"local": false,
+		"separates": [2, 5, 8],
+		"length": 12
+	},
+	{
+		"name": "Greenland",
+		"dialCode": 299,
+		"isoCode": "GL",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gl.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 9
+	},
+	{
+		"name": "Grenada",
+		"dialCode": 1473,
+		"isoCode": "GD",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gd.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Guadeloupe",
+		"dialCode": 590,
+		"isoCode": "GP",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gp.svg",
+		"local": false,
+		"separates": [3, 6, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Guam",
+		"dialCode": 1671,
+		"isoCode": "GU",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gu.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Guatemala",
+		"dialCode": 502,
+		"isoCode": "GT",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gt.svg",
+		"local": false,
+		"separates": [3, 7],
+		"length": 11
+	},
+	{
+		"name": "Guernsey",
+		"dialCode": 44,
+		"isoCode": "GG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gg.svg",
+		"local": false,
+		"separates": [2, 6],
+		"length": 12
+	},
+	{
+		"name": "Guinea",
+		"dialCode": 224,
+		"isoCode": "GN",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gn.svg",
+		"local": false,
+		"separates": [3, 6, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Guinea-Bissau",
+		"dialCode": 245,
+		"isoCode": "GW",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gw.svg",
+		"local": false,
+		"separates": [3, 6, 8],
+		"length": 10
+	},
+	{
+		"name": "Guyana",
+		"dialCode": 592,
+		"isoCode": "GY",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gy.svg",
+		"local": false,
+		"separates": [3],
+		"length": 10
+	},
+	{
+		"name": "Haiti",
+		"dialCode": 509,
+		"isoCode": "HT",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ht.svg",
+		"local": false,
+		"separates": [3, 7],
+		"length": 11
+	},
+	{
+		"name": "Honduras",
+		"dialCode": 504,
+		"isoCode": "HN",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/hn.svg",
+		"local": false,
+		"separates": [3, 7],
+		"length": 11
+	},
+	{
+		"name": "Hong Kong",
+		"dialCode": 852,
+		"isoCode": "HK",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/hk.svg",
+		"local": false,
+		"separates": [3, 7],
+		"length": 11
+	},
+	{
+		"name": "Hungary",
+		"dialCode": 36,
+		"isoCode": "HU",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/hu.svg",
+		"local": false,
+		"separates": [2, 3, 6],
+		"length": 10
+	},
+	{
+		"name": "Iceland",
+		"dialCode": 354,
+		"isoCode": "IS",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/is.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "India",
+		"dialCode": 91,
+		"isoCode": "IN",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/in.svg",
+		"local": false,
+		"separates": [2, 4],
+		"length": 12
+	},
+	{
+		"name": "Indonesia",
+		"dialCode": 62,
+		"isoCode": "ID",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/id.svg",
+		"local": false,
+		"separates": [2, 4, 8],
+		"length": 12
+	},
+	{
+		"name": "Iran",
+		"dialCode": 98,
+		"isoCode": "IR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ir.svg",
+		"local": false,
+		"separates": [2, 4],
+		"length": 12
+	},
+	{
+		"name": "Iraq",
+		"dialCode": 964,
+		"isoCode": "IQ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/iq.svg",
+		"local": false,
+		"separates": [3, 4, 8],
+		"length": 13
+	},
+	{
+		"name": "Ireland",
+		"dialCode": 353,
+		"isoCode": "IE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ie.svg",
+		"local": false,
+		"separates": [3, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Isle of Man",
+		"dialCode": 44,
+		"isoCode": "IM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/im.svg",
+		"local": false,
+		"separates": [2, 6],
+		"length": 12
+	},
+	{
+		"name": "Israel",
+		"dialCode": 972,
+		"isoCode": "IL",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/il.svg",
+		"local": false,
+		"separates": [3, 6, 8],
+		"length": 11
+	},
+	{
+		"name": "Italy",
+		"dialCode": 39,
+		"isoCode": "IT",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/it.svg",
+		"local": false,
+		"separates": [2, 4],
+		"length": 11
+	},
+	{
+		"name": "Ivory Coast / Cote d'Ivoire",
+		"dialCode": 225,
+		"isoCode": "CI",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ci.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Jamaica",
+		"dialCode": 1876,
+		"isoCode": "JM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/jm.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Japan",
+		"dialCode": 81,
+		"isoCode": "JP",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/jp.svg",
+		"local": false,
+		"separates": [2, 3, 7],
+		"length": 11
+	},
+	{
+		"name": "Jersey",
+		"dialCode": 44,
+		"isoCode": "JE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/je.svg",
+		"local": false,
+		"separates": [2, 6],
+		"length": 13
+	},
+	{
+		"name": "Jordan",
+		"dialCode": 962,
+		"isoCode": "JO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/jo.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 11
+	},
+	{
+		"name": "Kazakhstan",
+		"dialCode": 77,
+		"isoCode": "KZ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/kz.svg",
+		"local": false,
+		"separates": [4, 8],
+		"length": 11
+	},
+	{
+		"name": "Kenya",
+		"dialCode": 254,
+		"isoCode": "KE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ke.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 12
+	},
+	{
+		"name": "Kiribati",
+		"dialCode": 686,
+		"isoCode": "KI",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ki.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 8
+	},
+	{
+		"name": "Korea, Democratic People's Republic of Korea",
+		"dialCode": 850,
+		"isoCode": "KP",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/kp.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 13
+	},
+	{
+		"name": "Korea, Republic of South Korea",
+		"dialCode": 82,
+		"isoCode": "KR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/kr.svg",
+		"local": false,
+		"separates": [2, 3, 7],
+		"length": 11
+	},
+	{
+		"name": "Kuwait",
+		"dialCode": 965,
+		"isoCode": "KW",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/kw.svg",
+		"local": false,
+		"separates": [3, 7],
+		"length": 11
+	},
+	{
+		"name": "Kyrgyzstan",
+		"dialCode": 996,
+		"isoCode": "KG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/kg.svg",
+		"local": false,
+		"separates": [3, 6, 8],
+		"length": 12
+	},
+	{
+		"name": "Laos",
+		"dialCode": 856,
+		"isoCode": "LA",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/la.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 11
+	},
+	{
+		"name": "Latvia",
+		"dialCode": 371,
+		"isoCode": "LV",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/lv.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 11
+	},
+	{
+		"name": "Lebanon",
+		"dialCode": 961,
+		"isoCode": "LB",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/lb.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 10
+	},
+	{
+		"name": "Lesotho",
+		"dialCode": 266,
+		"isoCode": "LS",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ls.svg",
+		"local": false,
+		"separates": [3],
+		"length": 11
+	},
+	{
+		"name": "Liberia",
+		"dialCode": 231,
+		"isoCode": "LR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/lr.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 11
+	},
+	{
+		"name": "Libya",
+		"dialCode": 218,
+		"isoCode": "LY",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ly.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 12
+	},
+	{
+		"name": "Liechtenstein",
+		"dialCode": 423,
+		"isoCode": "LI",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/li.svg",
+		"local": false,
+		"separates": [3, 6, 8],
+		"length": 10
+	},
+	{
+		"name": "Lithuania",
+		"dialCode": 370,
+		"isoCode": "LT",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/lt.svg",
+		"local": false,
+		"separates": [3, 4, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Luxembourg",
+		"dialCode": 352,
+		"isoCode": "LU",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/lu.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 11
+	},
+	{
+		"name": "Macau",
+		"dialCode": 853,
+		"isoCode": "MO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mo.svg",
+		"local": false,
+		"separates": [3, 7],
+		"length": 11
+	},
+	{
+		"name": "Madagascar",
+		"dialCode": 261,
+		"isoCode": "MG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mg.svg",
+		"local": false,
+		"separates": [3, 5, 7, 10],
+		"length": 12
+	},
+	{
+		"name": "Malawi",
+		"dialCode": 265,
+		"isoCode": "MW",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mw.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 12
+	},
+	{
+		"name": "Malaysia",
+		"dialCode": 60,
+		"isoCode": "MY",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/my.svg",
+		"local": false,
+		"separates": [2, 3, 7],
+		"length": 11
+	},
+	{
+		"name": "Maldives",
+		"dialCode": 960,
+		"isoCode": "MV",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mv.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Mali",
+		"dialCode": 223,
+		"isoCode": "ML",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ml.svg",
+		"local": false,
+		"separates": [3, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Malta",
+		"dialCode": 356,
+		"isoCode": "MT",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mt.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 11
+	},
+	{
+		"name": "Marshall Islands",
+		"dialCode": 692,
+		"isoCode": "MH",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mh.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Martinique",
+		"dialCode": 596,
+		"isoCode": "MQ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mq.svg",
+		"local": false,
+		"separates": [3, 6, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Mauritania",
+		"dialCode": 222,
+		"isoCode": "MR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mr.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Mauritius",
+		"dialCode": 230,
+		"isoCode": "MU",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mu.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Mayotte",
+		"dialCode": 262,
+		"isoCode": "YT",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/yt.svg",
+		"local": false,
+		"separates": [3, 6, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Mexico",
+		"dialCode": 52,
+		"isoCode": "MX",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mx.svg",
+		"local": false,
+		"separates": [2, 4, 8],
+		"length": 12
+	},
+	{
+		"name": "Micronesia, Federated States of Micronesia",
+		"dialCode": 691,
+		"isoCode": "FM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/fm.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Moldova",
+		"dialCode": 373,
+		"isoCode": "MD",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/md.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Monaco",
+		"dialCode": 377,
+		"isoCode": "MC",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mc.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Mongolia",
+		"dialCode": 976,
+		"isoCode": "MN",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mn.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 12
+	},
+	{
+		"name": "Montenegro",
+		"dialCode": 382,
+		"isoCode": "ME",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/me.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 11
+	},
+	{
+		"name": "Montserrat",
+		"dialCode": 1664,
+		"isoCode": "MS",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ms.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Morocco",
+		"dialCode": 212,
+		"isoCode": "MA",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ma.svg",
+		"local": false,
+		"separates": [3, 6, 9],
+		"length": 12
+	},
+	{
+		"name": "Mozambique",
+		"dialCode": 258,
+		"isoCode": "MZ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mz.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 11
+	},
+	{
+		"name": "Myanmar",
+		"dialCode": 95,
+		"isoCode": "MM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mm.svg",
+		"local": false,
+		"separates": [2, 3],
+		"length": 9
+	},
+	{
+		"name": "Namibia",
+		"dialCode": 264,
+		"isoCode": "NA",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/na.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 11
+	},
+	{
+		"name": "Nauru",
+		"dialCode": 674,
+		"isoCode": "NR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/nr.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Nepal",
+		"dialCode": 977,
+		"isoCode": "NP",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/np.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 11
+	},
+	{
+		"name": "Netherlands",
+		"dialCode": 31,
+		"isoCode": "NL",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/nl.svg",
+		"local": false,
+		"separates": [2, 4, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "New Caledonia",
+		"dialCode": 687,
+		"isoCode": "NC",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/nc.svg",
+		"local": false,
+		"separates": [3, 5, 7],
+		"length": 9
+	},
+	{
+		"name": "New Zealand",
+		"dialCode": 64,
+		"isoCode": "NZ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/nz.svg",
+		"local": false,
+		"separates": [2, 3, 6],
+		"length": 10
+	},
+	{
+		"name": "Nicaragua",
+		"dialCode": 505,
+		"isoCode": "NI",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ni.svg",
+		"local": false,
+		"separates": [3],
+		"length": 11
+	},
+	{
+		"name": "Niger",
+		"dialCode": 227,
+		"isoCode": "NE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ne.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Nigeria",
+		"dialCode": 234,
+		"isoCode": "NG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ng.svg",
+		"local": false,
+		"separates": [3, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Niue",
+		"dialCode": 683,
+		"isoCode": "NU",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/nu.svg",
+		"local": false,
+		"separates": [3],
+		"length": 7
+	},
+	{
+		"name": "Norfolk Island",
+		"dialCode": 672,
+		"isoCode": "NF",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/nf.svg",
+		"local": false,
+		"separates": [4],
+		"length": 9
+	},
+	{
+		"name": "North Macedonia",
+		"dialCode": 389,
+		"isoCode": "MK",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mk.svg",
+		"local": false,
+		"separates": [3, 4, 8],
+		"length": 11
+	},
+	{
+		"name": "Northern Mariana Islands",
+		"dialCode": 1670,
+		"isoCode": "MP",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mp.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Norway",
+		"dialCode": 47,
+		"isoCode": "NO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/no.svg",
+		"local": false,
+		"separates": [2, 4, 6, 8],
+		"length": 10
+	},
+	{
+		"name": "Oman",
+		"dialCode": 968,
+		"isoCode": "OM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/om.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 11
+	},
+	{
+		"name": "Pakistan",
+		"dialCode": 92,
+		"isoCode": "PK",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/pk.svg",
+		"local": false,
+		"separates": [2, 4],
+		"length": 11
+	},
+	{
+		"name": "Palau",
+		"dialCode": 680,
+		"isoCode": "PW",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/pw.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Palestine",
+		"dialCode": 970,
+		"isoCode": "PS",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ps.svg",
+		"local": false,
+		"separates": [3, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Panama",
+		"dialCode": 507,
+		"isoCode": "PA",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/pa.svg",
+		"local": false,
+		"separates": [3, 4, 5],
+		"length": 10
+	},
+	{
+		"name": "Papua New Guinea",
+		"dialCode": 675,
+		"isoCode": "PG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/pg.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Paraguay",
+		"dialCode": 595,
+		"isoCode": "PY",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/py.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 11
+	},
+	{
+		"name": "Peru",
+		"dialCode": 51,
+		"isoCode": "PE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/pe.svg",
+		"local": false,
+		"separates": [2, 3, 6],
+		"length": 10
+	},
+	{
+		"name": "Philippines",
+		"dialCode": 63,
+		"isoCode": "PH",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ph.svg",
+		"local": false,
+		"separates": [2, 3, 6],
+		"length": 10
+	},
+	{
+		"name": "Poland",
+		"dialCode": 48,
+		"isoCode": "PL",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/pl.svg",
+		"local": false,
+		"separates": [2, 4, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Portugal",
+		"dialCode": 351,
+		"isoCode": "PT",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/pt.svg",
+		"local": false,
+		"separates": [3, 6, 9],
+		"length": 12
+	},
+	{
+		"name": "Puerto Rico",
+		"dialCode": 1939,
+		"isoCode": "PR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/pr.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Qatar",
+		"dialCode": 974,
+		"isoCode": "QA",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/qa.svg",
+		"local": false,
+		"separates": [3, 7],
+		"length": 11
+	},
+	{
+		"name": "Reunion",
+		"dialCode": 262,
+		"isoCode": "RE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/re.svg",
+		"local": false,
+		"separates": [3, 6, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Romania",
+		"dialCode": 40,
+		"isoCode": "RO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ro.svg",
+		"local": false,
+		"separates": [2, 4, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Russia",
+		"dialCode": 7,
+		"isoCode": "RU",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ru.svg",
+		"local": false,
+		"separates": [1, 4, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Rwanda",
+		"dialCode": 250,
+		"isoCode": "RW",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/rw.svg",
+		"local": false,
+		"separates": [3, 6, 9],
+		"length": 12
+	},
+	{
+		"name": "Saint Barthelemy",
+		"dialCode": 590,
+		"isoCode": "BL",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/bl.svg",
+		"local": false,
+		"separates": [3, 6, 9],
+		"length": 12
+	},
+	{
+		"name": "Saint Helena, Ascension and Tristan Da Cunha",
+		"dialCode": 290,
+		"isoCode": "SH",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sh.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 8
+	},
+	{
+		"name": "Saint Kitts and Nevis",
+		"dialCode": 1869,
+		"isoCode": "KN",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/kn.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Saint Lucia",
+		"dialCode": 1758,
+		"isoCode": "LC",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/lc.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Saint Martin",
+		"dialCode": 590,
+		"isoCode": "MF",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/mf.svg",
+		"local": false,
+		"separates": [3, 6, 9],
+		"length": 12
+	},
+	{
+		"name": "Saint Pierre and Miquelon",
+		"dialCode": 508,
+		"isoCode": "PM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/pm.svg",
+		"local": false,
+		"separates": [3, 5, 7],
+		"length": 9
+	},
+	{
+		"name": "Saint Vincent and the Grenadines",
+		"dialCode": 1784,
+		"isoCode": "VC",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/vc.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Samoa",
+		"dialCode": 685,
+		"isoCode": "WS",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ws.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 10
+	},
+	{
+		"name": "San Marino",
+		"dialCode": 378,
+		"isoCode": "SM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sm.svg",
+		"local": false,
+		"separates": [3, 7],
+		"length": 13
+	},
+	{
+		"name": "Sao Tome and Principe",
+		"dialCode": 239,
+		"isoCode": "ST",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/st.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 10
+	},
+	{
+		"name": "Saudi Arabia",
+		"dialCode": 966,
+		"isoCode": "SA",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sa.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 12
+	},
+	{
+		"name": "Senegal",
+		"dialCode": 221,
+		"isoCode": "SN",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sn.svg",
+		"local": false,
+		"separates": [3, 5, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Serbia",
+		"dialCode": 381,
+		"isoCode": "RS",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/rs.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 12
+	},
+	{
+		"name": "Seychelles",
+		"dialCode": 248,
+		"isoCode": "SC",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sc.svg",
+		"local": false,
+		"separates": [3, 4, 6, 8],
+		"length": 10
+	},
+	{
+		"name": "Sierra Leone",
+		"dialCode": 232,
+		"isoCode": "SL",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sl.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 11
+	},
+	{
+		"name": "Singapore",
+		"dialCode": 65,
+		"isoCode": "SG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sg.svg",
+		"local": false,
+		"separates": [2, 6],
+		"length": 10
+	},
+	{
+		"name": "Sint Maarten",
+		"dialCode": 1721,
+		"isoCode": "SX",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sx.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 11
+	},
+	{
+		"name": "Slovakia",
+		"dialCode": 421,
+		"isoCode": "SK",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sk.svg",
+		"local": false,
+		"separates": [3, 4, 7, 10],
+		"length": 12
+	},
+	{
+		"name": "Slovenia",
+		"dialCode": 386,
+		"isoCode": "SI",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/si.svg",
+		"local": false,
+		"separates": [3, 4, 6, 8],
+		"length": 11
+	},
+	{
+		"name": "Solomon Islands",
+		"dialCode": 677,
+		"isoCode": "SB",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sb.svg",
+		"local": false,
+		"separates": [3],
+		"length": 10
+	},
+	{
+		"name": "Somalia",
+		"dialCode": 252,
+		"isoCode": "SO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/so.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 12
+	},
+	{
+		"name": "South Africa",
+		"dialCode": 27,
+		"isoCode": "ZA",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/za.svg",
+		"local": false,
+		"separates": [2, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "South Georgia and the South Sandwich Islands",
+		"dialCode": 500,
+		"isoCode": "GS",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gs.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 8
+	},
+	{
+		"name": "South Sudan",
+		"dialCode": 211,
+		"isoCode": "SS",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ss.svg",
+		"local": false,
+		"separates": [3, 6, 9],
+		"length": 12
+	},
+	{
+		"name": "Spain",
+		"dialCode": 34,
+		"isoCode": "ES",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/es.svg",
+		"local": false,
+		"separates": [2, 4, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Sri Lanka",
+		"dialCode": 94,
+		"isoCode": "LK",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/lk.svg",
+		"local": false,
+		"separates": [2, 5],
+		"length": 11
+	},
+	{
+		"name": "Sudan",
+		"dialCode": 249,
+		"isoCode": "SD",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sd.svg",
+		"local": false,
+		"separates": [3, 4, 5, 8],
+		"length": 12
+	},
+	{
+		"name": "Suriname",
+		"dialCode": 597,
+		"isoCode": "SR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sr.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Svalbard and Jan Mayen",
+		"dialCode": 47,
+		"isoCode": "SJ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sj.svg",
+		"local": false,
+		"separates": [2, 4, 6, 8],
+		"length": 10
+	},
+	{
+		"name": "Sweden",
+		"dialCode": 46,
+		"isoCode": "SE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/se.svg",
+		"local": false,
+		"separates": [2, 3, 6, 9],
+		"length": 11
+	},
+	{
+		"name": "Switzerland",
+		"dialCode": 41,
+		"isoCode": "CH",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ch.svg",
+		"local": false,
+		"separates": [2, 4, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Syrian Arab Republic",
+		"dialCode": 963,
+		"isoCode": "SY",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/sy.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 13
+	},
+	{
+		"name": "Taiwan",
+		"dialCode": 886,
+		"isoCode": "TW",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tw.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 12
+	},
+	{
+		"name": "Tajikistan",
+		"dialCode": 992,
+		"isoCode": "TJ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tj.svg",
+		"local": false,
+		"separates": [3, 5, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Tanzania, United Republic of Tanzania",
+		"dialCode": 255,
+		"isoCode": "TZ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tz.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 12
+	},
+	{
+		"name": "Thailand",
+		"dialCode": 66,
+		"isoCode": "TH",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/th.svg",
+		"local": false,
+		"separates": [2, 3, 6, 10],
+		"length": 10
+	},
+	{
+		"name": "Timor-Leste",
+		"dialCode": 670,
+		"isoCode": "TL",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tl.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 10
+	},
+	{
+		"name": "Togo",
+		"dialCode": 228,
+		"isoCode": "TG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tg.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 10
+	},
+	{
+		"name": "Tokelau",
+		"dialCode": 690,
+		"isoCode": "TK",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tk.svg",
+		"local": false,
+		"separates": [3],
+		"length": 7
+	},
+	{
+		"name": "Tonga",
+		"dialCode": 676,
+		"isoCode": "TO",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/to.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 8
+	},
+	{
+		"name": "Trinidad and Tobago",
+		"dialCode": 1868,
+		"isoCode": "TT",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tt.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Tunisia",
+		"dialCode": 216,
+		"isoCode": "TN",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tn.svg",
+		"local": false,
+		"separates": [3, 5, 8],
+		"length": 11
+	},
+	{
+		"name": "Turkey",
+		"dialCode": 90,
+		"isoCode": "TR",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tr.svg",
+		"local": false,
+		"separates": [2, 5, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Turkmenistan",
+		"dialCode": 993,
+		"isoCode": "TM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tm.svg",
+		"local": false,
+		"separates": [3, 5, 7, 9],
+		"length": 11
+	},
+	{
+		"name": "Turks and Caicos Islands",
+		"dialCode": 1649,
+		"isoCode": "TC",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tc.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Tuvalu",
+		"dialCode": 688,
+		"isoCode": "TV",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/tv.svg",
+		"local": false,
+		"separates": [3],
+		"length": 8
+	},
+	{
+		"name": "Uganda",
+		"dialCode": 256,
+		"isoCode": "UG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ug.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 12
+	},
+	{
+		"name": "Ukraine",
+		"dialCode": 380,
+		"isoCode": "UA",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ua.svg",
+		"local": false,
+		"separates": [2, 5, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "United Arab Emirates",
+		"dialCode": 971,
+		"isoCode": "AE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ae.svg",
+		"local": false,
+		"separates": [3, 4, 7],
+		"length": 12
+	},
+	{
+		"name": "United Kingdom",
+		"dialCode": 44,
+		"isoCode": "GB",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/gb.svg",
+		"local": false,
+		"separates": [2, 4, 8],
+		"length": 12
+	},
+	{
+		"name": "United States",
+		"dialCode": 1,
+		"isoCode": "US",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/us.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Uruguay",
+		"dialCode": 598,
+		"isoCode": "UY",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/uy.svg",
+		"local": false,
+		"separates": [3],
+		"length": 11
+	},
+	{
+		"name": "Uzbekistan",
+		"dialCode": 998,
+		"isoCode": "UZ",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/uz.svg",
+		"local": true,
+		"separates": [3, 5, 8, 10],
+		"length": 12
+	},
+	{
+		"name": "Vanuatu",
+		"dialCode": 678,
+		"isoCode": "VU",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/vu.svg",
+		"local": false,
+		"separates": [3, 5],
+		"length": 10
+	},
+	{
+		"name": "Venezuela, Bolivarian Republic of Venezuela",
+		"dialCode": 58,
+		"isoCode": "VE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ve.svg",
+		"local": false,
+		"separates": [2, 5, 8],
+		"length": 12
+	},
+	{
+		"name": "Vietnam",
+		"dialCode": 84,
+		"isoCode": "VN",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/vn.svg",
+		"local": false,
+		"separates": [2, 4, 8],
+		"length": 12
+	},
+	{
+		"name": "Virgin Islands, British",
+		"dialCode": 1284,
+		"isoCode": "VG",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/vg.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Virgin Islands, U.S.",
+		"dialCode": 1340,
+		"isoCode": "VI",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/vi.svg",
+		"local": false,
+		"separates": [1, 4, 7],
+		"length": 11
+	},
+	{
+		"name": "Wallis and Futuna",
+		"dialCode": 681,
+		"isoCode": "WF",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/wf.svg",
+		"local": false,
+		"separates": [3, 5, 7],
+		"length": 9
+	},
+	{
+		"name": "Yemen",
+		"dialCode": 967,
+		"isoCode": "YE",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/ye.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 10
+	},
+	{
+		"name": "Zambia",
+		"dialCode": 260,
+		"isoCode": "ZM",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/zm.svg",
+		"local": false,
+		"separates": [3, 6],
+		"length": 12
+	},
+	{
+		"name": "Zimbabwe",
+		"dialCode": 263,
+		"isoCode": "ZW",
+		"flag": "https://cdn.kcak11.com/CountryFlags/countries/zw.svg",
+		"local": false,
+		"separates": [3, 4],
+		"length": 13
+	}
+]

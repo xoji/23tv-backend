@@ -1,0 +1,42 @@
+{
+  "name": "23tv-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node ./src/cluster.js",
+    "start-dev": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@types/pg": "^8.6.5",
+    "axios": "^0.25.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "curl": "^0.1.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "geoip-lite": "^1.4.2",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "ipapi.co": "^0.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.7",
+    "nvm": "0.0.4",
+    "path": "^0.12.7",
+    "pg": "^8.5.1",
+    "sequelize": "^6.9.0",
+    "sha1": "^1.1.1",
+    "shortid": "^2.2.16",
+    "socket.io": "^4.0.1"
+  }
+}
